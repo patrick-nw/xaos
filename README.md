@@ -1,5 +1,5 @@
 # xaos
-Repo for auto-build of XaoS for docker
+Repo for auto-build of XaoS for docker.
 
 XaoS has long been a fantastic interactive fractal zooming program, letting you explore fractals in real-time, with many options, color-cycling, etc. It runs in X-Windows (though I haven't figured that bit out in Docker, yet), but best of all, it also has an ASCII-art driver, and will run in a standard text terminal window!
 
