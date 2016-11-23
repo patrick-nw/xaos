@@ -13,12 +13,14 @@ You'll start off with the classic Mandelbrot fractal. (Which is on key "1". Try 
 Many keys do many functions:
 - h for help (TAB to navigate, ESC to exit back out)
 - +/- cycle colors by one step
-- y cycles colors continuously (TRY THIS)
+- y/Y cycles colors continuously (TRY THIS)
 - a toggles autopilot navigation (TRY THIS)
 - o toggles rotation (Cool, but sometimes loses its way when combined with autopilot)
 - f changes fill-coloring mode
 - i changes the plane
 - q to quit
+- esc - backs out of most menus
+- A-Z - Most capital letters trigger different formulas/functions... Experiment!
 
 These toggles and controls work in combination with each other. (Try "a+y")
 
@@ -28,6 +30,8 @@ More info:
 - https://en.wikipedia.org/wiki/XaoS
 - http://matek.hu/xaos/doku.php
 - https://github.com/xaos-project/XaoS
+- http://xaos.sourceforge.net/doc-trunk/index.html - Full documentation
 
-Quick example video (45 seconds):
-- https://www.youtube.com/watch?v=9ltIvooYa1U
+Quick example videos:
+- https://www.youtube.com/watch?v=9ltIvooYa1U (Graphical version.)
+- https://youtu.be/7Nws9z-hswM (ASCII version. The music is a bit jarring, but it shows many formula examples.)
